@@ -53,7 +53,8 @@ Calendar.prototype.getCalendarOptions = function () {
     recurrenceEndDate: null,
     calendarName: null,
     calendarId: null,
-    url: null
+    url: null,
+    timezone: null
   };
 };
 
